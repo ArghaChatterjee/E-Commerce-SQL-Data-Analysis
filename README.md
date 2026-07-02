@@ -2,6 +2,7 @@
 SQL-based analysis of the "Olist E-Commerce dataset" to evaluate order fulfilment, customer satisfaction, seller performance, and payment behaviour.
 
 📊 E-Commerce SQL Data Analysis
+
 📌 Project Overview :
 
 This project analyzes the Brazilian Olist E-Commerce dataset using SQL Server. The objective is to evaluate order fulfillment, customer satisfaction, seller performance, product performance, and payment behavior to generate actionable business insights.
